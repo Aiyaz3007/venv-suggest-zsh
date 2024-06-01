@@ -1,0 +1,10 @@
+#compdef activate
+
+_activate() {
+    local envs
+    envs=(${(f)"$(ls -1 $HOME/envs)"}) # change the path based on your requirement
+
+    _describe 'envs' envs
+}
+
+compdef _activate activate
