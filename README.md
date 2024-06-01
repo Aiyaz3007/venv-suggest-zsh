@@ -4,6 +4,13 @@ a bash script to suggest python venv environment from terminal acted a command
 
 # Zsh Autocompletion for Python Virtual Environments
 
+![Autocomplete Demo](examples/sample.gif)
+
+This guide will help you set up a custom Zsh function to activate Python virtual environments and enable autocompletion for environment names.
+
+
+# Zsh Autocompletion for Python Virtual Environments
+
 This guide will help you set up a custom Zsh function to activate Python virtual environments and enable autocompletion for environment names.
 
 ## Setup Instructions
